@@ -1,0 +1,861 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: includes/custom-metabox/general-data.php:120
+#: includes/custom-metabox/general-data.php:212
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-19 09:13+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: archive-property.php:25
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive-property.php:27
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive-property.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive-property.php:29
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive-property.php:29
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive-property.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:287
+msgid "Opciones Guardadas"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:297
+msgid "Complete Real Estate WP"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:304
+msgid "Opciones"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:305
+msgid "Selecciona opcion de Venta, Alquiler o ambos."
+msgstr ""
+
+#: admin/class-propertywp-admin.php:308
+msgid "Solo Venta"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:311
+msgid "Solo Alquiler"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:314
+msgid "Venta y Alquiler"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:316
+msgid "Moneda"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:319
+msgid "Posicion de la Moneda"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:321
+msgid "Derecha"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:322
+msgid "Izquierda"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:325
+msgid "Inicio de la Semana"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:327
+msgid "Lunes"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:328
+msgid "Domingo"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:331
+msgid "Opciones de Reserva"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:333
+msgid ""
+"&iquest;Quieres administrar calendario para las propiedades en Alquiler?"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:336
+msgid "Calendario de Propiedades"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:339
+msgid "API Google Map"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:340
+msgid "Para manejar la API del mapa de google debe insertar su Google API Key"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:343
+msgid "&iquest;Sabe como obtener una  Google API Key?"
+msgstr ""
+
+#: admin/class-propertywp-admin.php:346
+msgid "Actualizar"
+msgstr ""
+
+#: includes/class-calendar.php:784
+msgid "Temporada "
+msgstr ""
+
+#: includes/class-calendar.php:784
+msgid " - Precio por Noche: "
+msgstr ""
+
+#: includes/class-calendar.php:823
+msgid "Reservado: "
+msgstr ""
+
+#: includes/class-calendar.php:1006
+msgid "Temporada: "
+msgstr ""
+
+#: includes/class-calendar.php:1006
+msgid "Precio por Noche: "
+msgstr ""
+
+#: includes/class-property-gallery.php:61
+msgid "Galleria"
+msgstr ""
+
+#: includes/class-property-gallery.php:84
+msgid "Galer&iacute;a de Imagenes"
+msgstr ""
+
+#: includes/class-property-gallery.php:116
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: includes/class-searchproperty.php:158 includes/class-searchproperty.php:212
+#: includes/custom-metabox/general-data.php:117
+msgid "Servicio"
+msgstr ""
+
+#: includes/class-searchproperty.php:159 includes/class-searchproperty.php:213
+#: includes/custom-metabox/general-data.php:127
+#: public/templates/archive-property.php:154
+#: public/templates/single-property.php:314
+msgid "Alquiler"
+msgstr ""
+
+#: includes/class-searchproperty.php:160 includes/class-searchproperty.php:214
+#: includes/custom-metabox/general-data.php:136
+#: public/templates/single-property.php:130
+#: public/templates/single-property.php:310
+msgid "Venta"
+msgstr ""
+
+#: includes/class-searchproperty.php:161 includes/class-searchproperty.php:215
+#: includes/custom-metabox/general-data.php:145
+#: public/templates/single-property.php:317
+msgid "Alquiler y Venta"
+msgstr ""
+
+#: includes/class-searchproperty.php:170
+#: includes/custom-metabox/address-data.php:78
+#: includes/custom-metabox/address-data.php:85
+msgid "Ciudad"
+msgstr ""
+
+#: includes/class-searchproperty.php:194
+msgid "Tipo"
+msgstr ""
+
+#: includes/class-searchproperty.php:225
+msgid "Precio Desde - Hasta:"
+msgstr ""
+
+#: includes/class-searchproperty.php:237
+#: public/templates/single-property.php:178
+#: public/templates/single-property.php:179
+msgid "Parking"
+msgstr ""
+
+#: includes/class-searchproperty.php:247
+msgid "Animales"
+msgstr ""
+
+#: includes/class-searchproperty.php:253
+msgid "Buscar"
+msgstr ""
+
+#: includes/class-searchproperty.php:279
+msgid "New title"
+msgstr ""
+
+#: includes/class-searchproperty.php:284
+msgid "Title:"
+msgstr ""
+
+#: includes/class-searchproperty.php:288
+msgid "Horizontal:"
+msgstr ""
+
+#: includes/custom-metabox/address-data.php:26
+#: includes/custom-metabox/direccion-data.php:24
+msgid "Datos Direccion"
+msgstr ""
+
+#: includes/custom-metabox/address-data.php:81
+#: includes/custom-metabox/address-data.php:106
+#: includes/custom-metabox/direccion-data.php:78
+#: includes/custom-metabox/direccion-data.php:100
+msgid "Direccion"
+msgstr ""
+
+#: includes/custom-metabox/address-data.php:93
+#: includes/custom-metabox/direccion-data.php:81
+#: includes/custom-metabox/direccion-data.php:100
+msgid "Localidad"
+msgstr ""
+
+#: includes/custom-metabox/address-data.php:97
+#: includes/custom-metabox/direccion-data.php:88
+msgid "Numero"
+msgstr ""
+
+#: includes/custom-metabox/address-data.php:100
+#: includes/custom-metabox/direccion-data.php:91
+msgid "C.P."
+msgstr ""
+
+#: includes/custom-metabox/calendar-data.php:25
+msgid "Temporadas y Reservas"
+msgstr ""
+
+#: includes/custom-metabox/calendar-data.php:122
+#: includes/post-type/book-post-type.php:190
+msgid "Precio por Temporada "
+msgstr ""
+
+#: includes/custom-metabox/calendar-data.php:123
+#: includes/post-type/book-post-type.php:193
+msgid "Propiedad Reservada "
+msgstr ""
+
+#: includes/custom-metabox/cities.php:25
+msgctxt "taxonomy general name"
+msgid "Ciudades"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:26
+msgctxt "taxonomy singular name"
+msgid "Ciudad"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:27
+msgid "Buscar Ciudad"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:28
+msgid "Todas las Ciudades"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:29
+msgid "Ciudad Padre"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:30
+msgid "Ciudad Padre:"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:31
+msgid "Editar Ciudad"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:32
+msgid "Actualizar Ciudad"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:33
+msgid "Agregar Nueva Ciudad"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:34
+#: includes/custom-metabox/features.php:39
+msgid "Nuevo Nombre"
+msgstr ""
+
+#: includes/custom-metabox/cities.php:35
+msgid "Ciudades"
+msgstr ""
+
+#: includes/custom-metabox/direccion-data.php:75
+msgid "Country"
+msgstr ""
+
+#: includes/custom-metabox/direccion-data.php:107
+msgid ""
+"Debe de aggregar la api key de google en la configuracion del plugin "
+"Complete Real Estate WP"
+msgstr ""
+
+#: includes/custom-metabox/features.php:30
+msgctxt "taxonomy general name"
+msgid "Caracteristicas"
+msgstr ""
+
+#: includes/custom-metabox/features.php:31
+msgctxt "taxonomy singular name"
+msgid "Caracteristica"
+msgstr ""
+
+#: includes/custom-metabox/features.php:32
+msgid "Buscar Caracteristicas"
+msgstr ""
+
+#: includes/custom-metabox/features.php:33
+msgid "Todas Caracteristicas"
+msgstr ""
+
+#: includes/custom-metabox/features.php:34
+msgid "Caracteristica Padre"
+msgstr ""
+
+#: includes/custom-metabox/features.php:35
+msgid "Caracteristica Padre:"
+msgstr ""
+
+#: includes/custom-metabox/features.php:36
+msgid "Editar Caracteristica"
+msgstr ""
+
+#: includes/custom-metabox/features.php:37
+msgid "Actualizar Caracteristica"
+msgstr ""
+
+#: includes/custom-metabox/features.php:38
+msgid "Agregar Nueva Caracteristica"
+msgstr ""
+
+#: includes/custom-metabox/features.php:40
+msgid "Caracteristicas"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:25
+msgid "General Data"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:155
+msgid "Superficie construida"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:159
+#: public/templates/single-property.php:166
+#: public/templates/single-property.php:167
+msgid "Dormitorios"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:173
+msgid "Referencia"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:177
+msgid "Superficie Total:"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:181
+msgid "Plazas Parking:"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:191
+msgid "Rebajado: "
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:198
+msgid "Ocupado"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:206
+msgid "A&ntilde;o de Construcci&oacute;n:"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:210
+msgid "Orientacion: "
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:214
+msgid "Norte"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:216
+msgid "Sur"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:218
+msgid "Este"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:220
+msgid "Oeste"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:225
+msgid "Suplem./Persona Extra: "
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:233
+#: public/templates/single-property.php:362
+msgid "Ba&ntilde;os: "
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:247
+msgid "Alquiler Vacacional( por Noches): "
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:262
+msgid "Alquiler Mensual: "
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:276
+msgid "Terraza"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:282
+msgid "Precio Venta"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:293
+msgid "Precio Alquiler/ Noche (Fuera Temporada)"
+msgstr ""
+
+#: includes/custom-metabox/general-data.php:308
+msgid "Precio Alquiler/ Mes"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:44
+msgid "Precios y Temporadas"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:98
+msgid "Nombre de la Temporada"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:99
+msgid "Fecha Inicio"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:100
+msgid "Fecha Fin"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:101
+msgid "Precio por Noche"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:102
+msgid "Anual"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:104
+msgid "Acciones"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:136
+msgid "Delete"
+msgstr ""
+
+#: includes/custom-metabox/seasons-data.php:145
+msgid "Nueva Temporada"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:24
+#: includes/post-type/book-post-type.php:25
+#: includes/post-type/book-post-type.php:26
+#: includes/post-type/book-post-type.php:42
+#: includes/post-type/book-post-type.php:43
+#: includes/post-type/book-post-type.php:88
+#: includes/post-type/book-post-type.php:89
+msgid "Reservas"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:27
+msgid "Reserva Padre "
+msgstr ""
+
+#: includes/post-type/book-post-type.php:28
+msgid "Todas las Reservas"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:29
+msgid "Ver Reservas"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:30
+msgid "Nueva Reservas"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:31
+msgid "A&ntilde;adir Nueva"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:32
+msgid "Editar Reserva"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:33
+msgid "Actualizar Reserva"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:34
+msgid "Buscar Reserva"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:35
+msgid "Not Found"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:36
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:132
+msgid "CALENDARIO DE RESERVAS:"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:134
+msgid "Selecciona Propiedad:"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:137
+msgid "Selecciona Propiedad"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:217
+msgid "Formulario de Reserva:"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:220
+msgid "Fecha Desde:"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:225
+msgid "Fecha Hasta:"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:229
+msgid "Selecciona Usuario:"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:231
+msgid "Selecciona Usuario"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:240
+#: public/templates/archive-property.php:207
+#: public/templates/archive-property.php:218
+#: public/templates/archive-property.php:236
+#: public/templates/archive-property.php:247
+#: public/templates/propiedad-page.php:86
+#: public/templates/propiedad-page.php:93
+#: public/templates/single-property.php:200
+#: public/templates/single-property.php:204
+#: public/templates/single-property.php:230
+#: public/templates/single-property.php:234
+#: public/templates/single-property.php:251
+#: public/templates/single-property.php:255
+#: public/templates/single-property.php:407
+#: public/templates/single-property.php:413
+msgid " "
+msgstr ""
+
+#: includes/post-type/book-post-type.php:248
+msgid "Email:"
+msgstr ""
+
+#: includes/post-type/book-post-type.php:250
+msgid "Telefono:"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:24
+#: includes/post-type/property-post-type.php:25
+#: includes/post-type/property-post-type.php:26
+msgid "Real Estate"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:27
+msgid "Propiedad Padre"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:28
+msgid "Todas las Propiedades"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:29
+msgid "Ver Propiedades"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:30
+msgid "Nueva Propiedad"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:31
+msgid "Agregar Nueva"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:32
+msgid "Editar Propiedad"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:33
+msgid "Actualizar Propiedad"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:34
+msgid "Buscar Propiedad"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:35
+msgid "No se encuentra"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:36
+msgid "No se encuentra en la papelera"
+msgstr ""
+
+#: includes/post-type/property-post-type.php:41
+#: includes/post-type/property-post-type.php:42
+msgid "Properties"
+msgstr ""
+
+#: public/templates/archive-property.php:153
+msgid "Venta "
+msgstr ""
+
+#: public/templates/archive-property.php:154
+msgid "/ Alquiler"
+msgstr ""
+
+#: public/templates/archive-property.php:196
+msgid "Venta:"
+msgstr ""
+
+#: public/templates/archive-property.php:226
+msgid "Alquiler Desde: "
+msgstr ""
+
+#: public/templates/archive-property.php:274
+#: public/templates/archive-property.php:279
+#: public/templates/archive-property.php:285
+#: public/templates/archive-property.php:291
+#: public/templates/single-property.php:159
+msgid "plazas de parking"
+msgstr ""
+
+#: public/templates/single-property.php:80
+msgid "Rebajado"
+msgstr ""
+
+#: public/templates/single-property.php:117
+msgid "/"
+msgstr ""
+
+#: public/templates/single-property.php:140
+msgid "Vacional"
+msgstr ""
+
+#: public/templates/single-property.php:146
+msgid "Larga Temporada"
+msgstr ""
+
+#: public/templates/single-property.php:172
+#: public/templates/single-property.php:173
+msgid "Ba&ntilde;os"
+msgstr ""
+
+#: public/templates/single-property.php:191
+msgid "Precio Venta:"
+msgstr ""
+
+#: public/templates/single-property.php:223
+msgid "Alquiler:"
+msgstr ""
+
+#: public/templates/single-property.php:244
+msgid "Desde:"
+msgstr ""
+
+#: public/templates/single-property.php:261
+msgid " /Noche"
+msgstr ""
+
+#: public/templates/single-property.php:276
+msgid "Descripci&oacute;n"
+msgstr ""
+
+#: public/templates/single-property.php:279
+msgid "Continuar Leyendo <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: public/templates/single-property.php:284
+msgid "Datos Generales"
+msgstr ""
+
+#: public/templates/single-property.php:307
+msgid "Propiedad: "
+msgstr ""
+
+#: public/templates/single-property.php:323
+msgid "Referencia: "
+msgstr ""
+
+#: public/templates/single-property.php:330
+msgid "A&ntilde;o: "
+msgstr ""
+
+#: public/templates/single-property.php:336
+msgid "Parking: "
+msgstr ""
+
+#: public/templates/single-property.php:355
+msgid "Orientaci&oacute;n: "
+msgstr ""
+
+#: public/templates/single-property.php:368
+msgid "Dormitorios: "
+msgstr ""
+
+#: public/templates/single-property.php:389
+msgid "Datos Alquiler"
+msgstr ""
+
+#: public/templates/single-property.php:395
+#: public/templates/single-property.php:427
+msgid "Precio fuera de temporada"
+msgstr ""
+
+#: public/templates/single-property.php:436
+msgid " &euro;"
+msgstr ""
+
+#: public/templates/single-property.php:455
+msgid "Situaci&oacute;n"
+msgstr ""
+
+#: public/templates/single-property.php:512
+msgid "Next &rarr;"
+msgstr ""
+
+#: public/templates/single-property.php:513
+msgid "&larr; Previous"
+msgstr ""
+
+#: public/templates/single-property.php:533
+msgid "<span class=\\\"meta-nav\\\">&larr;</span> Older posts"
+msgstr ""
+
+#: public/templates/single-property.php:534
+msgid "Newer posts <span class=\\\"meta-nav\\\">&rarr;</span>"
+msgstr ""
+
+#: public/templates/single-property.php:550
+msgid "Calendario Reserva"
+msgstr ""
+
+#: public/templates/single-property.php:567
+msgid "Formulario de Reserva"
+msgstr ""
+
+#: public/templates/single-property.php:589
+msgid "La fecha final debe ser posterior a la fecha inicial"
+msgstr ""
+
+#: public/templates/single-property.php:596
+msgid "Las fechas deben ser mayor a la actual"
+msgstr ""
+
+#: public/templates/single-property.php:618
+#: public/templates/single-property.php:670
+msgid "<div class=\"succes_form\">"
+msgstr ""
+
+#: public/templates/single-property.php:619
+#: public/templates/single-property.php:671
+msgid "El mensaje se ha enviado con exito."
+msgstr ""
+
+#: public/templates/single-property.php:620
+#: public/templates/single-property.php:672
+msgid "</div>"
+msgstr ""
+
+#: public/templates/single-property.php:628
+msgid "Nombre y Apellidos"
+msgstr ""
+
+#: public/templates/single-property.php:630
+msgid "Telenono"
+msgstr ""
+
+#: public/templates/single-property.php:632
+msgid "Fecha Desde"
+msgstr ""
+
+#: public/templates/single-property.php:634
+msgid "Fecha Hasta"
+msgstr ""
+
+#: public/templates/single-property.php:637
+#: public/templates/single-property.php:685
+msgid "Mensaje"
+msgstr ""
+
+#: public/templates/single-property.php:640
+#: public/templates/single-property.php:688
+msgid "Enviar"
+msgstr ""
+
+#: public/templates/single-property.php:651
+msgid "Formulario de Contacto"
+msgstr ""
+
+#: public/templates/single-property.php:679
+msgid "Asunto"
+msgstr ""
+
+#: public/templates/single-property.php:681
+msgid "Movil"
+msgstr ""
+
+#: public/templates/single-property.php:683
+msgid "Email"
+msgstr ""

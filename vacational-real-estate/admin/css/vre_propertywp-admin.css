@@ -1,0 +1,219 @@
+/**
+ * CSS admin section property
+ *
+ * @version:    1.0.0
+ * @author      Angel Porras <robinwebdesign@hotmail.com>
+ * @author URI: https://webdesign.portfoliobox.net/
+ * @license:    GPL2
+ * @license URI:https://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+
+@charset "utf-8";
+
+#map {
+height: 400px;
+}
+/* Optional: Makes the sample page fill the window. */
+#wpfooter{
+	clear:left;
+	position:inherit !important;
+}
+
+.wrap_creap_admin_page{
+max-width:1200px !important;
+background-color:#FFF;
+padding:2%;
+margin-left:auto;
+margin-right:auto;
+border:1px solid #CCC;
+}
+.creap_menu_admin_page ul  a{
+	display:block;
+	padding:10px;
+	border:1px solid #CCC;
+	text-decoration:none;
+	color:#333;	
+	font-size:16px;
+	
+}
+
+.controls {
+margin-top: 10px;
+border: 1px solid transparent;
+border-radius: 2px 0 0 2px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+height: 32px;
+outline: none;
+box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+#pac-input {
+background-color: #fff;
+font-family: Roboto;
+font-size: 15px;
+font-weight: 300;
+margin-left: 12px;
+padding: 0 11px 0 13px;
+text-overflow: ellipsis;
+width: 300px;
+}
+
+#pac-input:focus {
+border-color: #4d90fe;
+}
+
+.pac-container {
+font-family: Roboto;
+}
+
+#type-selector {
+color: #fff;
+background-color: #4d90fe;
+padding: 5px 11px 0px 11px;
+}
+
+#type-selector label {
+font-family: Roboto;
+font-size: 13px;
+font-weight: 300;
+}
+#target {
+width: 345px;
+}
+
+
+.divdayadmtxt{
+width:13%;
+height:30px;
+float:left;
+font-size:14px;
+text-align:center;
+border-right:1px solid #FFF;
+background-color:#0099CC;
+
+}
+
+.divcontentdaysnumber{
+background-color:#FFF;
+border-left:1px solid #CCC;
+}
+
+.divcontentdaysnumber .selectedday{
+background-color:#f1ecc8;
+}
+
+.divcontentdaysnumber .selectedfirst{
+background-color:#CCC;
+}
+
+.divmonthcalendar{
+width:30%;
+float:left; margin-right:10px;
+}
+
+.divcontentdaysnumber .selectedlast{
+background-color:#CCC;
+}
+.divdayadm{
+width:13%;
+
+float:left;
+font-size:14px;
+text-align:center;
+border-right:1px solid #CCC;
+}
+.divdayadm a{
+display:block;
+padding:6px;
+border-right:1px solid #CCC;
+border-bottom:1px solid #CCC;
+
+}
+
+.divdayadm a:hover{
+background-color:#EAEAEA;
+}
+
+.divdayadm .selectedfirst{
+background-color:#CCC;
+}
+
+.divdayadm .activefirst{
+background-color:#f7f7c6;
+
+}
+
+.divcontentdaysnumber .checked{
+background-color:#f1ecc8;
+
+}
+
+.daytxtadm{
+color:#FFF;
+margin-top:4px;
+}
+
+.activereserved{
+background-color:#e4e2e2 !important;
+
+}
+
+
+.vre-meta-image-preview{
+	float:left;
+	margin:6px;
+	position:relative;
+	
+	
+}
+.myplugin-image-preview{
+	float:left;
+	margin:6px;
+	border:1px solid #099;
+	position:relative;
+}
+
+
+
+
+.vre-meta-image-preview{
+	float:left;
+	margin:6px;
+	position:relative;
+	
+	
+}
+.myplugin-image-preview{
+	float:left;
+	margin:6px;
+	border:1px solid #099;
+	position:relative;
+}
+
+
+
+.deletediv{
+background-color:#FFF;
+position:absolute;
+right:0px;
+z-index:100;
+text-align:center;
+border:1px solid #CCC;
+}
+.deletediv a{
+display:block;
+margin-left:auto;
+margin-right:auto;
+padding:6px;
+
+}
+
+.div_creap_calendar{
+width:20px; 
+float:left; 
+padding-top:120px; 
+font-size:18px;
+}
+
